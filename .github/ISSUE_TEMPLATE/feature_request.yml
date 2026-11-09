@@ -1,0 +1,22 @@
+name: 기능 제안 / Feature request
+description: 지원했으면 하는 프로그램이나 바뀌었으면 하는 점 / A program to support or something to change
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: want
+    attributes:
+      label: 원하는 것 / What you would like
+      description: 예) STAR-CCM+ 지원, 알림 문구 변경 / e.g. support STAR-CCM+, change the alert wording
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 왜 필요한가요 / Why
+      description: 지금 어떻게 하고 있고 무엇이 불편한지 / How you do it today and what is inconvenient
+  - type: textarea
+    id: files
+    attributes:
+      label: 진행 상황을 알 수 있는 파일 / Files that show progress
+      description: 새 프로그램이라면, 해석 중에 진행 정도가 기록되는 로그나 출력 파일 이름과 예시 몇 줄을 알려 주시면 큰 도움이 됩니다 / For a new simulation program, please share the names of log or output files that record simulation progress, along with a few sample lines
+      render: text

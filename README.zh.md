@@ -4,7 +4,7 @@
 
 一个 Windows 程序，在桌面上显示仿真的进度，并在仿真结束或停止时通过 Telegram 通知你。
 
-![SimMonitor 窗口](docs/images/skin.png)
+![SimMonitor 窗口](docs/images/demo-en.gif)
 
 **支持的程序：** Ansys Mechanical · Ansys Fluent · Abaqus · OpenFOAM (Windows 版) · FLOW-3D · Thermo-Calc (TC-Python)
 
@@ -45,4 +45,4 @@
 
 个人和学术用途免费。公司业务使用请通过 [Issues](https://github.com/ColorSkopar/SimMonitor/issues) 联系我们。完整条款见 [LICENSE](LICENSE)。
 
-遇到问题请在 [Issues](https://github.com/ColorSkopar/SimMonitor/issues) 留言。如果对你有帮助，欢迎[赞助](https://github.com/sponsors/ColorSkopar)。
+使用感受或问题请发到 [Discussions](https://github.com/ColorSkopar/SimMonitor/discussions)，错误报告和功能建议请发到 [Issues](https://github.com/ColorSkopar/SimMonitor/issues/new/choose)。如能告诉我们在哪些仿真程序和版本上可以（或不能）正常使用，将非常有帮助。如果对你有帮助，欢迎[赞助](https://github.com/sponsors/ColorSkopar)。

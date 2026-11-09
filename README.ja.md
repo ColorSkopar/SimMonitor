@@ -4,7 +4,7 @@
 
 解析がどこまで進んだかをデスクトップに表示し、終わったり止まったりしたら Telegram でお知らせする Windows プログラムです。
 
-![SimMonitor ウィンドウ](docs/images/skin.png)
+![SimMonitor ウィンドウ](docs/images/demo-en.gif)
 
 **対応プログラム:** Ansys Mechanical · Ansys Fluent · Abaqus · OpenFOAM (Windows 版) · FLOW-3D · Thermo-Calc (TC-Python)
 
@@ -45,4 +45,4 @@
 
 個人・学術用途は無料です。会社の業務で使う場合は [Issues](https://github.com/ColorSkopar/SimMonitor/issues) からお問い合わせください。詳しい条件は [LICENSE](LICENSE) にあります。
 
-問題があれば [Issues](https://github.com/ColorSkopar/SimMonitor/issues) に書いてください。役に立ったら[支援](https://github.com/sponsors/ColorSkopar)もできます。
+使ってみた感想や質問は [Discussions](https://github.com/ColorSkopar/SimMonitor/discussions) に、不具合や機能の要望は [Issues](https://github.com/ColorSkopar/SimMonitor/issues/new/choose) に書いてください。どの解析プログラムとバージョンで動いたか（動かなかったか）を教えていただけると大変助かります。役に立ったら[支援](https://github.com/sponsors/ColorSkopar)もできます。

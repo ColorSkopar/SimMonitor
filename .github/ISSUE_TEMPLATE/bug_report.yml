@@ -1,0 +1,61 @@
+name: 버그 신고 / Bug report
+description: 감지가 안 되거나, 진행률·알림이 이상하거나, 설치가 안 될 때 / Detection, progress, alert or install problems
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        알려 주셔서 고맙습니다. 해석 이름이나 폴더 경로처럼 공개하기 싫은 정보는 지우거나 바꿔서 적어 주세요. 텔레그램 봇 토큰은 절대 적지 마세요.
+        Thanks for reporting. Remove or rename anything you do not want to make public (case names, folder paths). Never paste your Telegram bot token.
+  - type: dropdown
+    id: program
+    attributes:
+      label: 해석 프로그램 / Simulation program
+      multiple: true
+      options:
+        - Ansys Mechanical (MAPDL)
+        - Ansys Fluent
+        - Abaqus
+        - OpenFOAM
+        - FLOW-3D
+        - Thermo-Calc (TC-Python)
+        - 설치·설정 창 / Installer or settings window
+        - 기타 / Other
+    validations:
+      required: true
+  - type: input
+    id: program_version
+    attributes:
+      label: 프로그램 버전 / Program version
+      placeholder: "예 / e.g. Fluent 2025 R2, Abaqus 2024, OpenFOAM v2606 (ESI Windows)"
+  - type: input
+    id: simmonitor_version
+    attributes:
+      label: SimMonitor 버전 / SimMonitor version
+      description: 설정 창 왼쪽 아래에 있습니다 / Shown at the bottom left of the settings window
+      placeholder: "1.4.0"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows 버전 / Windows version
+      placeholder: "예 / e.g. Windows 11 24H2"
+  - type: textarea
+    id: what
+    attributes:
+      label: 무슨 일이 있었나요 / What happened
+      description: 기대한 것과 실제로 본 것 / What you expected and what you saw
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: 해석을 어떻게 실행했나요 / How was the run started
+      description: 코어 수, 실행 방법(GUI, 배치, 스크립트, mpiexec 등) / Cores and how it was launched (GUI, batch, script, mpiexec, ...)
+  - type: textarea
+    id: log
+    attributes:
+      label: 로그 / Log
+      description: "[로그 폴더 열기]의 가장 최근 `simmon-날짜.log`에서 관련 줄을 붙여 넣어 주세요 / Paste the relevant lines from the newest `simmon-<date>.log` ([Open log folder])"
+      render: text

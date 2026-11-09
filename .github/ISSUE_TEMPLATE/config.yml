@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 질문 / Questions
+    url: https://github.com/ColorSkopar/SimMonitor/discussions/categories/q-a
+    about: 설치나 사용법 질문 / Questions about installing or using SimMonitor
+  - name: 사용 소감·피드백 / Feedback
+    url: https://github.com/ColorSkopar/SimMonitor/discussions/categories/general
+    about: 써 보신 소감, 좋았던 점, 불편한 점 / How it went, what helped, what was awkward

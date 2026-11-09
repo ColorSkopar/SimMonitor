@@ -4,7 +4,7 @@
 
 A Windows program that shows how far your simulations have progressed on the desktop and notifies you on Telegram when they finish or stop.
 
-![SimMonitor window](docs/images/skin.png)
+![SimMonitor window](docs/images/demo-en.gif)
 
 **Supported programs:** Ansys Mechanical · Ansys Fluent · Abaqus · OpenFOAM (Windows builds) · FLOW-3D · Thermo-Calc (TC-Python)
 
@@ -45,4 +45,4 @@ Illustrated manuals. After installation, the manual also opens from the Start me
 
 Free for personal and academic use. For company use, please contact us via [Issues](https://github.com/ColorSkopar/SimMonitor/issues). Full terms: [LICENSE](LICENSE).
 
-Problems? Open an [issue](https://github.com/ColorSkopar/SimMonitor/issues). If SimMonitor helps you, you can [sponsor](https://github.com/sponsors/ColorSkopar) the project.
+Tried it? Share how it went or ask a question in [Discussions](https://github.com/ColorSkopar/SimMonitor/discussions), and report bugs or suggest features in [Issues](https://github.com/ColorSkopar/SimMonitor/issues/new/choose). It helps a lot to hear which programs and versions work for you, and which do not. If SimMonitor helps you, you can [sponsor](https://github.com/sponsors/ColorSkopar) the project.

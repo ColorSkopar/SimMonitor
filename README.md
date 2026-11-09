@@ -4,7 +4,7 @@
 
 해석이 얼마나 진행됐는지 바탕화면에 보여 주고, 끝나거나 멈추면 텔레그램으로 알려 주는 Windows 프로그램입니다.
 
-![SimMonitor 창](docs/images/skin.png)
+![SimMonitor 창](docs/images/demo.gif)
 
 **지원 프로그램:** Ansys Mechanical · Ansys Fluent · Abaqus · OpenFOAM (Windows 판) · FLOW-3D · Thermo-Calc (TC-Python)
 
@@ -45,4 +45,4 @@
 
 개인·학술 용도는 무료입니다. 회사 업무에 쓰려면 [Issues](https://github.com/ColorSkopar/SimMonitor/issues)로 문의해 주세요. 전체 조건은 [LICENSE](LICENSE)에 있습니다.
 
-문제가 있으면 [Issues](https://github.com/ColorSkopar/SimMonitor/issues)에 남겨 주세요. 도움이 됐다면 [후원](https://github.com/sponsors/ColorSkopar)할 수 있습니다.
+써 보신 소감이나 질문은 [Discussions](https://github.com/ColorSkopar/SimMonitor/discussions)에, 버그와 기능 제안은 [Issues](https://github.com/ColorSkopar/SimMonitor/issues/new/choose)에 남겨 주세요. 어떤 해석 프로그램과 버전에서 잘 되는지(또는 안 되는지) 알려 주시면 큰 도움이 됩니다. 도움이 됐다면 [후원](https://github.com/sponsors/ColorSkopar)할 수 있습니다.
