@@ -1,0 +1,52 @@
+SimMonitor 사용 약관 / SimMonitor License Terms
+Copyright (c) 2026 ColorSkopar. All rights reserved.
+
+[한국어]
+
+1. 개인·학술 용도 무료
+   개인이 직접 쓰거나 대학·연구기관에서 학술 목적으로 쓰는 경우, SimMonitor를
+   무료로 설치하고 사용할 수 있습니다.
+
+2. 업무·상업 용도
+   회사 등 영리 조직의 업무에 쓰려면 먼저 문의해 주세요.
+   https://github.com/ColorSkopar/SimMonitor/issues
+
+3. 금지 사항
+   설치 파일과 프로그램을 재배포, 판매, 수정, 역분석(디컴파일, 디스어셈블)하거나
+   파생 프로그램을 만들 수 없습니다. 법이 명시적으로 허용하는 범위는 예외입니다.
+
+4. 보증 없음
+   이 프로그램은 있는 그대로 제공되며, 어떠한 보증도 하지 않습니다. 사용으로 생긴
+   손해(해석 지연, 데이터 손실, 알림 누락 등)에 대해 저작권자는 책임지지 않습니다.
+
+5. 제3자 구성 요소
+   설치 파일에는 Python(PSF License)과 psutil(BSD 3-Clause License)이 들어 있으며,
+   각 고지는 설치 폴더의 runtime\LICENSE-python.txt, runtime\LICENSE-psutil.txt에
+   있습니다. 바탕화면 표시에 쓰는 Rainmeter는 별도 프로그램(GPL)이며 그 자체의
+   약관을 따릅니다.
+
+[English]
+
+1. Free for personal and academic use
+   You may install and use SimMonitor free of charge for personal use or for
+   academic purposes at universities and research institutes.
+
+2. Business and commercial use
+   For use in the operations of a company or other for-profit organization,
+   please contact us first: https://github.com/ColorSkopar/SimMonitor/issues
+
+3. Restrictions
+   You may not redistribute, sell, modify, reverse engineer (decompile or
+   disassemble) the installer or the program, or create derivative works,
+   except where applicable law expressly permits.
+
+4. No warranty
+   The software is provided "as is" without warranty of any kind. The copyright
+   holder is not liable for any damage arising from its use, including delayed
+   simulations, data loss or missed notifications.
+
+5. Third-party components
+   The installer contains Python (PSF License) and psutil (BSD 3-Clause
+   License); their notices are in runtime\LICENSE-python.txt and
+   runtime\LICENSE-psutil.txt in the installation folder. Rainmeter, used for
+   the desktop display, is a separate program (GPL) under its own terms.
