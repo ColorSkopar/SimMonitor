@@ -6,7 +6,7 @@
 
 ![SimMonitor 視窗](docs/images/demo-en.gif)
 
-**支援的程式：** Ansys Mechanical · Ansys Fluent · Abaqus · OpenFOAM (Windows 版) · FLOW-3D · Thermo-Calc (TC-Python)
+**支援的程式：** Ansys Mechanical · Ansys Fluent · Abaqus · OpenFOAM (Windows 版 · WSL2) · FLOW-3D · Thermo-Calc (TC-Python)
 
 **顯示的資訊：** 使用的 CPU 核心數、進度、剩餘時間、預計結束時間
 

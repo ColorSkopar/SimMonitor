@@ -6,7 +6,7 @@
 
 ![SimMonitor 창](docs/images/demo.gif)
 
-**지원 프로그램:** Ansys Mechanical · Ansys Fluent · Abaqus · OpenFOAM (Windows 판) · FLOW-3D · Thermo-Calc (TC-Python)
+**지원 프로그램:** Ansys Mechanical · Ansys Fluent · Abaqus · OpenFOAM (Windows 판 · WSL2) · FLOW-3D · Thermo-Calc (TC-Python)
 
 **보이는 정보:** 쓰는 CPU 코어 수, 진행률, 남은 시간, 끝나는 예상 시각
 

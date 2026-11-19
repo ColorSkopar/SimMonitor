@@ -6,7 +6,7 @@ A Windows program that shows how far your simulations have progressed on the des
 
 ![SimMonitor window](docs/images/demo-en.gif)
 
-**Supported programs:** Ansys Mechanical · Ansys Fluent · Abaqus · OpenFOAM (Windows builds) · FLOW-3D · Thermo-Calc (TC-Python)
+**Supported programs:** Ansys Mechanical · Ansys Fluent · Abaqus · OpenFOAM (Windows builds · WSL2) · FLOW-3D · Thermo-Calc (TC-Python)
 
 **What it shows:** CPU cores in use, progress, remaining time, expected finish time
 
